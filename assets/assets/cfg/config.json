@@ -1,0 +1,9 @@
+{
+  "rest_url": "http://facturaweb.gasomarshal.biz:8080/rest-api",
+  "facturacion_web_old": "",
+  "ayuda": "Si presenta algún problema para facturar su ticket envie un correo a: atencionaclientes@gasomarshal.com",
+  "directorio": "Estimado cliente, para recibir más información sobre la estación a la cual desea facturar, proporcione el número de estación. Este se encuentra en el encabezado del ticket",
+  "tickets": true,
+  "sustitucion": false,
+  "dias_operacion": 365
+}
